@@ -22,6 +22,10 @@ We use [@2020adsp_team_2](https://twitter.com/2020adsp_team_2) as our Twitter ac
 
 This script accesses Twitter API.
 
+| ![](./readme_assets/twitter_demo.gif) |
+|:-:|
+| Fig: Demo of `./twitter_local.py`. |
+
 ## Preparations
 
 ### `./twitter_local.py`
