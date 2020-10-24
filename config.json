@@ -1,0 +1,6 @@
+{
+    "is_dryrun_mode":           0,
+    "is_debug_mode":            0,
+    "twitter_credentials_file": "./twitter_credentials.json"
+}
+

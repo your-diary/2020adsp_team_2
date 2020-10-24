@@ -1,0 +1,13 @@
+tags
+.*
+!.gitignore
+!.vimspell*
+*.out
+old/
+used/
+sandbox/
+
+twitter_credentials.json
+__pycache__/
+*.mkv
+
